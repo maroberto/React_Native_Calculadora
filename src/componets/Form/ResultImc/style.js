@@ -3,8 +3,8 @@ import { StyleSheet } from "react-native"
 const styles = StyleSheet.create({
  resulteImc: {
      flex: 1,
-     marginTop:5,
-     paddingTop:5,
+     marginTop:1,
+     paddingTop:15,
      borderRadius:50,
      alignItems:"center",
      width: "100%",
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
      backgroundColor:"#1877f2",
      borderRadius: 50,
      paddingBottom: 5,
-     paddingTop: 0,
+     paddingTop: 1,
  },
  shareText:{
      color: "#ffffff",
